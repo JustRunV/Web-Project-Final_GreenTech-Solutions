@@ -210,7 +210,7 @@ a:focus, button:focus {
 
 .newsletter-image {
     max-width: 100px;
-    width: 100%;
+    width: auto;
     height: auto;
     display: block;
     margin: 20px auto;
